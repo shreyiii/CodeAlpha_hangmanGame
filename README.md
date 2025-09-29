@@ -4,8 +4,7 @@ A **text-based Hangman game** in Python with difficulty levels, hints, and score
 
 ---
 
-## Features ✅
-
+## Features 
 - **Difficulty Levels**:  
   - Easy → Longer words (≥ 5 letters)  
   - Hard → Shorter words (≤ 4 letters)  
@@ -17,12 +16,6 @@ A **text-based Hangman game** in Python with difficulty levels, hints, and score
 - **Multiple Rounds**: Play again after each game.  
 
 - **Text-based Console Game**: No graphics or audio required.  
-
----
-
-## How to Play 🎯
-
-1. Run the Python script:
 
 ```bash
 python hangman.py
